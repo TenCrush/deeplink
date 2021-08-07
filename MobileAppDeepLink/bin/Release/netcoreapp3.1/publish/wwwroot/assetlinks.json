@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.nhatnguyenmedia.mcplatform",
+            "sha256_cert_fingerprints": [
+                "4D:C8:02:FA:9D:8F:32:9A:3E:AF:5E:E4:B8:30:C1:5B:AA:30:4A:7F:AD:6D:15:49:15:0E:CB:01:DC:D1:C0:A2"
+            ]
+        }
+    }
+]
